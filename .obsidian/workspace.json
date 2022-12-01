@@ -13,14 +13,27 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian 学习笔记.md",
-                "mode": "source",
+                "file": "学习/格式化练习笔记.md",
+                "mode": "preview",
                 "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "34639e802937e3b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "知识体系/C1杂乱无章收集箱子/个人知识管理大全.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -66,12 +79,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 321.5
   },
   "right": {
     "id": "4e129b69a72928c9",
@@ -87,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian 学习笔记.md",
+                "file": "知识体系/C1杂乱无章收集箱子/个人知识管理大全.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian 学习笔记.md"
+                "file": "知识体系/C1杂乱无章收集箱子/个人知识管理大全.md"
               }
             }
           }
@@ -124,19 +136,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 233.5
   },
-  "active": "0da260f30854d84e",
+  "active": "34639e802937e3b0",
   "lastOpenFiles": [
+    "知识体系/C1杂乱无章收集箱子/Obsidian：一款完美的科研笔记_知识管理软件 - 知乎.md",
+    "知识体系/C1杂乱无章收集箱子/个人知识管理大全.md",
     "学习/格式化练习笔记.md",
-    "未命名.md",
-    "地址.md",
-    "Sören Doose.md",
     "Obsidian 学习笔记.md",
+    "Sören Doose.md",
     "markdown 学习笔记.md",
     "link.md",
-    "_1.png",
-    "新建文件夹/obsidian_vault_template_for_researcher/03-Projects/99-黑曜石玩家指南/1-obsidian入门/软件下载安装.md",
-    "新建文件夹/obsidian_vault_template_for_researcher/03-Projects/98-test/test4.md"
+    "未命名.md",
+    "地址.md",
+    "_1.png"
   ]
 }
