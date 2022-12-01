@@ -1,0 +1,109 @@
+{
+  "main": {
+    "id": "306286dc024a6e4a",
+    "type": "split",
+    "children": [
+      {
+        "id": "36c4cf69e44679ed",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "格式化练习笔记.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "376c19bae50350ec",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "格式化练习笔记.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "404e20b2015a5a4e",
+    "type": "split",
+    "children": [
+      {
+        "id": "7d2c8e4a24369f31",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "53322af4fb30c0c7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "91274cb6de7c5422",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4e129b69a72928c9",
+    "type": "split",
+    "children": [
+      {
+        "id": "ff556683ccd61719",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fc9983f12bd67530",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "格式化练习笔记.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "376c19bae50350ec",
+  "lastOpenFiles": [
+    "格式化练习笔记.md",
+    "Obsidian 学习笔记.md",
+    "markdown 学习笔记.md",
+    "未命名.md",
+    "link.md",
+    "_1.png"
+  ]
+}
