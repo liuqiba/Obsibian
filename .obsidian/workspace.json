@@ -8,25 +8,49 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0da260f30854d84e",
+            "id": "bc5c1f5eba358add",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "知识体系/C4知识网路（各种文章，知识分类汇总）/C4.3生活/C4.3.1 娱乐/1 游戏/游戏评价.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c20b4ced439877f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "未分类/帮助文件：ASM Basics 1 - Cheat Engine.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bdf7eef059781d3d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "学习/格式化练习笔记.md",
-                "mode": "preview",
-                "backlinks": true,
+                "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "34639e802937e3b0",
+            "id": "1f198538619c21f2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知识体系/C1杂乱无章收集箱子/个人知识管理大全.md",
+                "file": "知识体系/C4知识网路（各种文章，知识分类汇总）/C4.1学习/C4.1.3治国（行业，商业，趋势，洞察，社会）/4学科/编程/程序设计/设计模式/讲解/设计模式_ 抽象工厂模式详解.md",
                 "mode": "source",
                 "source": false
               }
@@ -62,7 +86,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "文档",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -83,7 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321.5
+    "width": 332.5086555480957
   },
   "right": {
     "id": "4e129b69a72928c9",
@@ -99,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知识体系/C1杂乱无章收集箱子/个人知识管理大全.md",
+                "file": "未分类/帮助文件：ASM Basics 1 - Cheat Engine.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,28 +151,35 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知识体系/C1杂乱无章收集箱子/个人知识管理大全.md"
+                "file": "未分类/帮助文件：ASM Basics 1 - Cheat Engine.md"
               }
             }
+          },
+          {
+            "id": "43a99bc3c31e9e08",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 233.5
+    "width": 200
   },
-  "active": "34639e802937e3b0",
+  "active": "c20b4ced439877f7",
   "lastOpenFiles": [
-    "知识体系/C1杂乱无章收集箱子/Obsidian：一款完美的科研笔记_知识管理软件 - 知乎.md",
-    "知识体系/C1杂乱无章收集箱子/个人知识管理大全.md",
+    "未分类/Help File：ASM Basics 1 - Cheat Engine.md",
+    "知识体系/C4知识网路（各种文章，知识分类汇总）/C4.3生活/C4.3.1 娱乐/1 游戏/游戏长评价/大侠立志传demo评价.md",
     "学习/格式化练习笔记.md",
-    "Obsidian 学习笔记.md",
-    "Sören Doose.md",
+    "知识体系/C4知识网路（各种文章，知识分类汇总）/C4.3生活/C4.3.1 娱乐/1 游戏/游戏评价.md",
+    "知识体系/C4知识网路（各种文章，知识分类汇总）/C4.1学习/C4.1.3治国（行业，商业，趋势，洞察，社会）/4学科/编程/程序设计/设计模式/笔记/UML 笔记.md",
     "markdown 学习笔记.md",
-    "link.md",
-    "未命名.md",
-    "地址.md",
-    "_1.png"
+    "知识体系/C4知识网路（各种文章，知识分类汇总）/C4.1学习/C4.1.4平天下（元认知、底层学科）/2基础学科/学习力/学习理论/搭建个人数据库/如何构建自己的笔记系统？.md",
+    "未分类/图解计算机网络、操作系统、计算机组成数据库.md",
+    "未分类/Github 如何稳定 - 高效 - 安全访问_不用翻墙.md",
+    "未分类/发布到 steam 的 unity(Il2cpp) 游戏破解方法 - 编程之家.md"
   ]
 }

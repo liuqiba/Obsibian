@@ -1,3 +1,9 @@
 [
-  "obsidian-git"
+  "obsidian-git",
+  "dataview",
+  "code-block-copy",
+  "calendar",
+  "buttons",
+  "cm-editor-syntax-highlight-obsidian",
+  "obsidian-local-rest-api"
 ]
