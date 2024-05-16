@@ -1,0 +1,14 @@
+D:\__Repository\知识体系\C4知识网路（各种文章，知识分类汇总）\C4.1学习\C4.1.3治国（行业，商业，趋势，洞察，社会）\4学科\编程\程序设计\设计模式\实现\Design-Pattern\bin\Debug\netcoreapp3.1\Design-Pattern.exe
+D:\__Repository\知识体系\C4知识网路（各种文章，知识分类汇总）\C4.1学习\C4.1.3治国（行业，商业，趋势，洞察，社会）\4学科\编程\程序设计\设计模式\实现\Design-Pattern\bin\Debug\netcoreapp3.1\Design-Pattern.deps.json
+D:\__Repository\知识体系\C4知识网路（各种文章，知识分类汇总）\C4.1学习\C4.1.3治国（行业，商业，趋势，洞察，社会）\4学科\编程\程序设计\设计模式\实现\Design-Pattern\bin\Debug\netcoreapp3.1\Design-Pattern.runtimeconfig.json
+D:\__Repository\知识体系\C4知识网路（各种文章，知识分类汇总）\C4.1学习\C4.1.3治国（行业，商业，趋势，洞察，社会）\4学科\编程\程序设计\设计模式\实现\Design-Pattern\bin\Debug\netcoreapp3.1\Design-Pattern.runtimeconfig.dev.json
+D:\__Repository\知识体系\C4知识网路（各种文章，知识分类汇总）\C4.1学习\C4.1.3治国（行业，商业，趋势，洞察，社会）\4学科\编程\程序设计\设计模式\实现\Design-Pattern\bin\Debug\netcoreapp3.1\Design-Pattern.dll
+D:\__Repository\知识体系\C4知识网路（各种文章，知识分类汇总）\C4.1学习\C4.1.3治国（行业，商业，趋势，洞察，社会）\4学科\编程\程序设计\设计模式\实现\Design-Pattern\bin\Debug\netcoreapp3.1\Design-Pattern.pdb
+D:\__Repository\知识体系\C4知识网路（各种文章，知识分类汇总）\C4.1学习\C4.1.3治国（行业，商业，趋势，洞察，社会）\4学科\编程\程序设计\设计模式\实现\Design-Pattern\obj\Debug\netcoreapp3.1\Design-Pattern.csproj.AssemblyReference.cache
+D:\__Repository\知识体系\C4知识网路（各种文章，知识分类汇总）\C4.1学习\C4.1.3治国（行业，商业，趋势，洞察，社会）\4学科\编程\程序设计\设计模式\实现\Design-Pattern\obj\Debug\netcoreapp3.1\Design-Pattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\__Repository\知识体系\C4知识网路（各种文章，知识分类汇总）\C4.1学习\C4.1.3治国（行业，商业，趋势，洞察，社会）\4学科\编程\程序设计\设计模式\实现\Design-Pattern\obj\Debug\netcoreapp3.1\Design-Pattern.AssemblyInfoInputs.cache
+D:\__Repository\知识体系\C4知识网路（各种文章，知识分类汇总）\C4.1学习\C4.1.3治国（行业，商业，趋势，洞察，社会）\4学科\编程\程序设计\设计模式\实现\Design-Pattern\obj\Debug\netcoreapp3.1\Design-Pattern.AssemblyInfo.cs
+D:\__Repository\知识体系\C4知识网路（各种文章，知识分类汇总）\C4.1学习\C4.1.3治国（行业，商业，趋势，洞察，社会）\4学科\编程\程序设计\设计模式\实现\Design-Pattern\obj\Debug\netcoreapp3.1\Design-Pattern.csproj.CoreCompileInputs.cache
+D:\__Repository\知识体系\C4知识网路（各种文章，知识分类汇总）\C4.1学习\C4.1.3治国（行业，商业，趋势，洞察，社会）\4学科\编程\程序设计\设计模式\实现\Design-Pattern\obj\Debug\netcoreapp3.1\Design-Pattern.dll
+D:\__Repository\知识体系\C4知识网路（各种文章，知识分类汇总）\C4.1学习\C4.1.3治国（行业，商业，趋势，洞察，社会）\4学科\编程\程序设计\设计模式\实现\Design-Pattern\obj\Debug\netcoreapp3.1\Design-Pattern.pdb
+D:\__Repository\知识体系\C4知识网路（各种文章，知识分类汇总）\C4.1学习\C4.1.3治国（行业，商业，趋势，洞察，社会）\4学科\编程\程序设计\设计模式\实现\Design-Pattern\obj\Debug\netcoreapp3.1\Design-Pattern.genruntimeconfig.cache
