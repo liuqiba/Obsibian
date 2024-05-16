@@ -1,6 +1,6 @@
 {
   "port": 27124,
-  "insecurePort": 27123,
+  "insecurePort": 27121,
   "enableInsecureServer": true,
   "apiKey": "0124d5ce7321276b1db04d97307e772eed6428903f5ecd5e07f1424b7c7fb599",
   "crypto": {
