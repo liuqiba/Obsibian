@@ -4,60 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "e1d62f048eb0c189",
+        "id": "0e9969afe31efe2a",
         "type": "tabs",
         "children": [
           {
-            "id": "bc5c1f5eba358add",
+            "id": "e7e83e8e22cb47ae",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知识体系/C4知识网路（各种文章，知识分类汇总）/C4.3生活/C4.3.1 娱乐/1 游戏/游戏评价.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c20b4ced439877f7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "未分类/帮助文件：ASM Basics 1 - Cheat Engine.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bdf7eef059781d3d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "学习/格式化练习笔记.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "1f198538619c21f2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "知识体系/C4知识网路（各种文章，知识分类汇总）/C4.1学习/C4.1.3治国（行业，商业，趋势，洞察，社会）/4学科/编程/程序设计/设计模式/讲解/设计模式_ 抽象工厂模式详解.md",
+                "file": "知识体系/C4知识网路（各种文章，知识分类汇总）/C4.1学习/C4.1.3治国（行业，商业，趋势，洞察，社会）/4学科/编程/程序设计/编程语言/编译语言/python/python常用命令与技巧.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -86,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "pip",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,12 +64,21 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "2f3623f63a5259b7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 332.5086555480957
+    "width": 446.5086555480957
   },
   "right": {
     "id": "4e129b69a72928c9",
@@ -123,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "未分类/帮助文件：ASM Basics 1 - Cheat Engine.md",
+                "file": "知识体系/C4知识网路（各种文章，知识分类汇总）/C4.1学习/C4.1.3治国（行业，商业，趋势，洞察，社会）/4学科/编程/程序设计/编程语言/编译语言/python/python常用命令与技巧.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未分类/帮助文件：ASM Basics 1 - Cheat Engine.md"
+                "file": "知识体系/C4知识网路（各种文章，知识分类汇总）/C4.1学习/C4.1.3治国（行业，商业，趋势，洞察，社会）/4学科/编程/程序设计/编程语言/编译语言/python/python常用命令与技巧.md"
               }
             }
           },
@@ -169,17 +140,45 @@
     "direction": "horizontal",
     "width": 200
   },
-  "active": "c20b4ced439877f7",
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "command-palette:打开命令面板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "templates:插入模板": false
+    }
+  },
+  "active": "e7e83e8e22cb47ae",
   "lastOpenFiles": [
-    "未分类/Help File：ASM Basics 1 - Cheat Engine.md",
-    "知识体系/C4知识网路（各种文章，知识分类汇总）/C4.3生活/C4.3.1 娱乐/1 游戏/游戏长评价/大侠立志传demo评价.md",
-    "学习/格式化练习笔记.md",
-    "知识体系/C4知识网路（各种文章，知识分类汇总）/C4.3生活/C4.3.1 娱乐/1 游戏/游戏评价.md",
-    "知识体系/C4知识网路（各种文章，知识分类汇总）/C4.1学习/C4.1.3治国（行业，商业，趋势，洞察，社会）/4学科/编程/程序设计/设计模式/笔记/UML 笔记.md",
+    "未分类/(30 条消息) MySQL 8_0 如何配置 my_cnf_程序员云帆哥的博客 - CSDN 博客_mysql8 my_cnf.md",
+    "未分类/发布到 steam 的 unity(Il2cpp) 游戏破解方法 - 编程之家.md",
+    "未分类/VSCode debug 教学.md",
+    "未分类/480 有没有比逻辑思维更高级的思维方式 ？.md",
+    "未分类/通杀爆改 Unity FPS 游戏系列 - 第二章：HOOK 实现全屏改血 + 秒杀.md",
+    "未分类/Cheat Engine：Auto Assembler - Cheat Engine.md",
+    "知识体系/C4知识网路（各种文章，知识分类汇总）/C4.1学习/C4.1.3治国（行业，商业，趋势，洞察，社会）/4学科/编程/程序设计/编程语言/编译语言/python/python常用命令与技巧.md",
+    "未分类/MarkDown 语法 超详细教程 - 经验分享 - Obsidian 中文论坛.md",
+    "地址.md",
+    "未命名.md",
+    "img-0.md",
+    "link.md",
     "markdown 学习笔记.md",
-    "知识体系/C4知识网路（各种文章，知识分类汇总）/C4.1学习/C4.1.4平天下（元认知、底层学科）/2基础学科/学习力/学习理论/搭建个人数据库/如何构建自己的笔记系统？.md",
-    "未分类/图解计算机网络、操作系统、计算机组成数据库.md",
-    "未分类/Github 如何稳定 - 高效 - 安全访问_不用翻墙.md",
-    "未分类/发布到 steam 的 unity(Il2cpp) 游戏破解方法 - 编程之家.md"
+    "Sören Doose.md",
+    "Obsidian 学习笔记.md",
+    "未分类/【教程】Python 实时检测 CPU 和 GPU 的功耗_cpu 实时功耗_小锋学长生活大爆炸的博客 - CSDN 博客.md",
+    "知识体系/C4知识网路（各种文章，知识分类汇总）/C4.1学习/C4.1.3治国（行业，商业，趋势，洞察，社会）/4学科/编程/程序设计/编程语言/编译语言/Python.md",
+    "未分类/Python 利用 sqlacodegen 自动生成 ORM 实体类示例.md",
+    "未分类/Python：查看 windows 下 GPU 的使用情况、利用率_nvidia-ml-py_玩转测试开发的博客 - CSDN 博客.md",
+    "模板/obsidian_vault_template_for_researcher/03-Projects/99-黑曜石玩家指南/4-obsidian附录/python代码说明与调试方法.md",
+    "知识体系/C4知识网路（各种文章，知识分类汇总）/C4.1学习/C4.1.3治国（行业，商业，趋势，洞察，社会）/4学科/编程/软件基础/计算机组成原理/计算机网络/测试内网带宽.md",
+    "知识体系/C4知识网路（各种文章，知识分类汇总）/C4.1学习/C4.1.3治国（行业，商业，趋势，洞察，社会）/4学科/编程/软件基础/计算机组成原理/计算机网络/技术汇总.md",
+    "未分类/告子书.md",
+    "未分类/kkndme_tianya 天涯 kkndme 神贴聊房价.md",
+    "知识体系/C4知识网路（各种文章，知识分类汇总）/C4.3生活/C4.3.99 学习工具/数据工具/EasySpider ：图形化界面，简单爬虫.md",
+    "未分类/每天只睡 4 小时，神采奕奕一整天——《高效人士四小时熟睡法》读书笔记 - 简书.md",
+    "知识体系/C4知识网路（各种文章，知识分类汇总）/C4.3生活/C4.3.99 学习工具/数据工具/EazySpider 可视化设计爬虫工具",
+    "知识体系/C4知识网路（各种文章，知识分类汇总）/C4.3生活/C4.3.99 学习工具/数据工具"
   ]
 }
